@@ -1,3 +1,4 @@
 dmba-datasets/dmba
 .ipynb_checkpoints
 *.zip
+.DS_Store
